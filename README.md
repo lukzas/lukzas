@@ -15,6 +15,7 @@ My name is Łukasz Zasada and I am a Software Engineer in Test from Poland. Desp
   <img alt="Blazemeter" src="https://img.shields.io/badge/Blazemeter-CA2133?logo=blazemeter&logoColor=white&style=for-the-badge" />
   <img alt="JMeter" src="https://img.shields.io/badge/JMeter-D22128?logo=Apache-JMeter&logoColor=white&style=for-the-badge" />
   <img alt="Mocha" src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white&style=for-the-badge" />
+  <img alt="Cucumber" src="https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=white&style=for-the-badge" />
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
   <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=for-the-badge" />
   <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" />
@@ -33,9 +34,6 @@ My name is Łukasz Zasada and I am a Software Engineer in Test from Poland. Desp
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
   <img alt="Groovy" src="https://img.shields.io/badge/Groovy-4298B8?logo=apache-groovy&logoColor=white&style=for-the-badge" />
   <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
-  <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
 </p>
 
 #### CI/CD
@@ -48,6 +46,17 @@ My name is Łukasz Zasada and I am a Software Engineer in Test from Poland. Desp
   <img alt="Drone" src="https://img.shields.io/badge/Drone-212121?logo=drone&logoColor=white&style=for-the-badge" />
   <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+</p>
+
+#### Frameworks
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge" />
+  <img alt="CakePHP" src="https://img.shields.io/badge/CakePHP-D33C43?logo=cakephp&logoColor=white&style=for-the-badge" />
+  <img alt="Symfony" src="https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white&style=for-the-badge" />
 </p>
 
 #### Databases
