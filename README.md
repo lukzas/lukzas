@@ -14,6 +14,10 @@ My name is Łukasz Zasada and I am a Software Engineer in Test from Poland. Desp
   <img alt="Sauce Labs" src="https://img.shields.io/badge/Sauce%20Labs-E2231A?logo=sauce-labs&logoColor=white&style=for-the-badge" />
   <img alt="Blazemeter" src="https://img.shields.io/badge/Blazemeter-CA2133?logo=blazemeter&logoColor=white&style=for-the-badge" />
   <img alt="JMeter" src="https://img.shields.io/badge/JMeter-D22128?logo=Apache-JMeter&logoColor=white&style=for-the-badge" />
+  <img alt="Gatling" src="https://img.shields.io/badge/Gatling-FF9E2A?logo=Gatling&logoColor=white&style=for-the-badge" />
+  <img alt="OWASP" src="https://img.shields.io/badge/OWASP-000000?logo=OWASP&logoColor=white&style=for-the-badge" />
+  <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?logo=Wireshark&logoColor=white&style=for-the-badge" />
+  <img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-4E9BCD?logo=SonarQube&logoColor=white&style=for-the-badge" />
   <img alt="Mocha" src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white&style=for-the-badge" />
   <img alt="Cucumber" src="https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=white&style=for-the-badge" />
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
@@ -25,6 +29,7 @@ My name is Łukasz Zasada and I am a Software Engineer in Test from Poland. Desp
 <p>
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge" />
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
@@ -53,10 +58,12 @@ My name is Łukasz Zasada and I am a Software Engineer in Test from Poland. Desp
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
+  <img alt="Bulma" src="https://img.shields.io/badge/Bulma-00D1B2?logo=bulma&logoColor=white&style=for-the-badge" />
   <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge" />
   <img alt="CakePHP" src="https://img.shields.io/badge/CakePHP-D33C43?logo=cakephp&logoColor=white&style=for-the-badge" />
   <img alt="Symfony" src="https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white&style=for-the-badge" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
 </p>
 
 #### Databases
@@ -66,6 +73,7 @@ My name is Łukasz Zasada and I am a Software Engineer in Test from Poland. Desp
   <img alt="Postgre" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" />
   <img alt="Mongo" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
 </p>
 
 #### Logging
