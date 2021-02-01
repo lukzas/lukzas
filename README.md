@@ -87,7 +87,14 @@ My name is Łukasz Zasada and I am a Software Engineer in Test from Poland. Desp
 
 ### Hire me 💸
 
-I am open for collaborations! Drop me a message on 
+If I seem to be a good match for your next project with focus on quality around
+- Web
+- API
+- Mobile
+- BI
+- Performance 
+
+Drop me a message on 
 <p>
   <a href="https://www.linkedin.com/in/lukzas/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
 </p>
